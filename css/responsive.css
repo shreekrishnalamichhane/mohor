@@ -970,7 +970,7 @@
     width: 100%;
   }
   .header .navbar {
-    padding: 60px 0 15px !important;
+    /* padding: 60px 0 15px !important; */
     z-index: 99;
     background: #020c59 !important;
   }
@@ -1444,7 +1444,8 @@
     position: relative;
   }
   .navbar-light .navbar-brand img {
-    visibility: hidden;
+    /* visibility: hidden; */
+    display: none;
   }
   .navbar-light .navbar-brand::before {
     background: url("../images/logo.png");

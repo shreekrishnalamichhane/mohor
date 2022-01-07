@@ -5471,7 +5471,7 @@ select {
 }
 
 #header-05 .navbar {
-  padding: 25px 0 0;
+  padding: 25px 0;
 }
 
 #header-05 .navbar .navbar-nav .nav-item {
@@ -6034,8 +6034,8 @@ select {
 }
 
 #best_feature_05 .feature_items .single-wrapper {
-  padding-top:15px ;
-  padding-bottom:15px ;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 #best_feature_05 .feature_items .single-wrapper:last-child {
@@ -6421,12 +6421,19 @@ select {
   border-radius: 5px;
 }
 
-#community-area-05 .faq-wrapper .accordion-wrapper .accordion-single:last-child {
+#community-area-05
+  .faq-wrapper
+  .accordion-wrapper
+  .accordion-single:last-child {
   border-bottom: 1px solid transparent;
   margin-bottom: 0px;
 }
 
-#community-area-05 .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
+#community-area-05
+  .faq-wrapper
+  .accordion-wrapper
+  .accordion-single
+  .panel-heading {
   background: transparent;
   border: none;
   padding: 0 25px;
@@ -6484,7 +6491,11 @@ select {
   color: #f89420;
 }
 
-#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a.collapsed:before {
+#community-area-05
+  .faq-wrapper
+  .accordion-wrapper
+  .panel-title
+  > a.collapsed:before {
   float: right !important;
   font-family: "Font Awesome 5 Free";
   content: "\f067";
