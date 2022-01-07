@@ -5768,7 +5768,7 @@ select {
   position: relative;
 }
 
-#about_cryptonic_05:before {
+/* #about_cryptonic_05:before {
   position: absolute;
   content: "";
   background: url("../images/shape/redius-top-5.png") no-repeat 50% 50%;
@@ -5779,7 +5779,7 @@ select {
   top: -150px;
   background-size: cover;
   z-index: -1;
-}
+} */
 
 #about_cryptonic_05 .about_2_item {
   padding-top: 250px;
