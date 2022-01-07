@@ -1323,7 +1323,7 @@ select {
 
 /*---------- team Style-------*/
 #team_membar {
-  background: #020c56;
+  /* background: #020c56; */
   padding: 150px 0;
 }
 
@@ -1722,7 +1722,7 @@ select {
 
 #header-01 .navbar .navbar-nav .nav-item .nav-link.active,
 #header-01 .navbar .navbar-nav .nav-item .nav-link:hover {
-  color: #00e9fe;
+  color: #f89420;
 }
 
 #header-01 .navbar .navbar-nav .nav-item .nav-link.active {
@@ -2139,7 +2139,7 @@ select {
   font-size: 18px;
   font-weight: 600;
   text-transform: capitalize;
-  color: #1edfd2;
+  color: #f89420;
 }
 
 #token_sale_01 .sub-title h2 {
@@ -2245,7 +2245,7 @@ select {
 #token_sale_01 .pricing_items .single-wrapper .pricing_single .offer_price h4 {
   margin-top: 22px;
   color: #ffffff;
-  background: #00e9fe;
+  background: #f89420;
   font-size: 16px;
   line-height: 40px;
   font-weight: 500;
@@ -2273,7 +2273,7 @@ select {
   width: 0;
   height: 0;
   border-top: 20px solid transparent;
-  border-right: 20px solid #00e9fe;
+  border-right: 20px solid #f89420;
   border-bottom: 20px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -2303,7 +2303,7 @@ select {
   h3 {
   font-size: 24px;
   font-weight: 500;
-  color: #00e9fe;
+  color: #f89420;
   margin-top: 25px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -2337,7 +2337,7 @@ select {
 #token_sale_01 .pricing_items .single-wrapper .pricing_single .sale a {
   font-size: 20px;
   font-weight: 500;
-  color: #00e9fe;
+  color: #f89420;
   line-height: 52px;
 }
 
@@ -2355,7 +2355,7 @@ select {
 }
 
 #token_sale_01 .pricing_bottom .pricing_list_wrapper ul li:before {
-  border: 3px solid #00e9fe;
+  border: 3px solid #f89420;
 }
 
 #token_sale_01 .pricing_bottom .pricing_list_wrapper ul li span {
@@ -2415,7 +2415,7 @@ select {
   font-size: 18px;
   font-weight: 600;
   text-transform: capitalize;
-  color: #1edfd2 !important;
+  color: #f89420 !important;
   background: none;
 }
 
@@ -2527,7 +2527,7 @@ select {
   left: 50%;
   height: 10px;
   width: 10px;
-  background: #00e9fe;
+  background: #f89420;
   content: "";
   border-radius: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -2540,12 +2540,12 @@ select {
   left: 50%;
   height: 40px;
   width: 40px;
-  border: 1px solid #00e9fe;
+  border: 1px solid #f89420;
   content: "";
   border-radius: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  background: #00e9fe;
+  background: #f89420;
   z-index: -2;
   opacity: 0.5;
 }
@@ -2572,7 +2572,7 @@ select {
 #roadmap_01 .location_04 .location_wrapper .location .location_title h3 {
   font-weight: 600;
   font-size: 16px;
-  color: #1edfd2;
+  color: #f89420;
   margin-bottom: 15px;
 }
 
@@ -2937,7 +2937,7 @@ select {
 }
 
 #team_membar_01 .owl-controls .owl-page.active span {
-  background: #00e9fe !important;
+  background: #f89420 !important;
 }
 
 #team_membar_01 .owl-controls .owl-page span {
@@ -3173,7 +3173,7 @@ select {
 #footer-01 .subtitle_1 {
   font-size: 16px !important;
   font-weight: 600;
-  color: #00e9fe;
+  color: #f89420;
 }
 
 #footer-01 ul li a {
@@ -3331,7 +3331,7 @@ select {
 }
 
 #header-02 .navbar .language .token {
-  background: #00e9fe;
+  background: #f89420;
   padding: 9px 25px;
   border-radius: 50px;
   font-size: 14px;
@@ -3435,7 +3435,7 @@ select {
   -webkit-transform: scale(1.15);
   transform: scale(1.15);
   background: #ffffff;
-  color: #00e9fe;
+  color: #f89420;
 }
 
 #header-02
@@ -3451,7 +3451,7 @@ select {
   line-height: 56px;
   font-size: 12px;
   background: #ffffff;
-  color: #00e9fe;
+  color: #f89420;
   border-radius: 50%;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -4180,7 +4180,7 @@ select {
 #footer-02 .subtitle_1 {
   font-size: 16px !important;
   font-weight: 600;
-  color: #00e9fe;
+  color: #f89420;
 }
 
 #footer-02 ul li a {
@@ -5795,7 +5795,7 @@ select {
   font-weight: 600;
   text-transform: capitalize;
   margin-bottom: 15px;
-  color: #1edfd2;
+  color: #f89420;
 }
 
 #about_cryptonic_05 .about_cryptonic-content h2 {
@@ -5855,7 +5855,7 @@ select {
 }
 
 #ico_start_05 .ico-title h2 {
-  color: #1edfd2;
+  color: #f89420;
   font-size: 36px;
   line-height: 50px;
 }
@@ -5902,7 +5902,7 @@ select {
   span {
   font-size: 50px;
   font-weight: 600;
-  color: #1edfd2;
+  color: #f89420;
   line-height: 46px;
 }
 
@@ -6026,7 +6026,7 @@ select {
   font-weight: 600;
   text-transform: capitalize;
   margin-bottom: 15px;
-  color: #1edfd2;
+  color: #f89420;
 }
 
 #best_feature_05 .sub-title p {
@@ -6209,7 +6209,7 @@ select {
   left: 50%;
   height: 10px;
   width: 10px;
-  background: #1edfd2;
+  background: #f89420;
   content: "";
   border-radius: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -6222,7 +6222,7 @@ select {
   left: 50%;
   height: 34px;
   width: 34px;
-  border: 1px solid #1edfd2;
+  border: 1px solid #f89420;
   content: "";
   border-radius: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -6251,7 +6251,7 @@ select {
 #roadmap_05 .location_04 .location_wrapper .location .location_title h3 {
   font-weight: 500;
   font-size: 16px;
-  color: #1edfd2;
+  color: #f89420;
   margin-bottom: 15px;
 }
 
@@ -6391,49 +6391,49 @@ select {
   cursor: pointer;
 }
 
-#faq-area-05 {
+#community-area-05 {
   background: #f5f5f7;
   padding: 100px 0 150px;
 }
 
-#faq-area-05 .sub-title {
+#community-area-05 .sub-title {
   margin: 0;
   text-align: left;
   margin-bottom: 30px;
   max-width: 350px;
 }
 
-#faq-area-05 .sub-title h2 {
+#community-area-05 .sub-title h2 {
   font-weight: 500;
   line-height: 46px;
   margin-bottom: 30px;
 }
 
-#faq-area-05 .sub-title p {
+#community-area-05 .sub-title p {
   margin: 0;
   color: #7a839e;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .accordion-single {
+#community-area-05 .faq-wrapper .accordion-wrapper .accordion-single {
   background: #ffffff;
   border: none;
   margin-bottom: 15px;
   border-radius: 5px;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .accordion-single:last-child {
+#community-area-05 .faq-wrapper .accordion-wrapper .accordion-single:last-child {
   border-bottom: 1px solid transparent;
   margin-bottom: 0px;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
+#community-area-05 .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
   background: transparent;
   border: none;
   padding: 0 25px;
   height: 80px;
 }
 
-#faq-area-05
+#community-area-05
   .faq-wrapper
   .accordion-wrapper
   .accordion-single
@@ -6445,7 +6445,7 @@ select {
   font-weight: 400;
 }
 
-#faq-area-05
+#community-area-05
   .faq-wrapper
   .accordion-wrapper
   .accordion-single
@@ -6455,7 +6455,7 @@ select {
   float: right;
 }
 
-#faq-area-05
+#community-area-05
   .faq-wrapper
   .accordion-wrapper
   .accordion-single
@@ -6463,7 +6463,7 @@ select {
   padding: 0 25px 25px;
 }
 
-#faq-area-05
+#community-area-05
   .faq-wrapper
   .accordion-wrapper
   .accordion-single
@@ -6474,7 +6474,7 @@ select {
   margin: 0;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:before {
+#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:before {
   float: right !important;
   padding-right: 15px;
   font-family: "Font Awesome 5 Free";
@@ -6484,7 +6484,7 @@ select {
   color: #f89420;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .panel-title > a.collapsed:before {
+#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a.collapsed:before {
   float: right !important;
   font-family: "Font Awesome 5 Free";
   content: "\f067";
@@ -6494,9 +6494,9 @@ select {
   color: #f89420;
 }
 
-#faq-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:hover,
-#faq-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:active,
-#faq-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:focus {
+#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:hover,
+#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:active,
+#community-area-05 .faq-wrapper .accordion-wrapper .panel-title > a:focus {
   text-decoration: none;
 }
 
@@ -6591,7 +6591,7 @@ select {
 #footer-05 .subtitle_1 {
   font-size: 16px !important;
   font-weight: 600;
-  color: #00e9fe;
+  color: #f89420;
 }
 
 #footer-05 ul li a {
@@ -7330,7 +7330,7 @@ select {
   font-size: 18px;
   font-weight: 600;
   text-transform: capitalize;
-  color: #1edfd2;
+  color: #f89420;
   background: -webkit-gradient(
     linear,
     left top,
@@ -7769,7 +7769,7 @@ select {
   font-size: 18px;
   font-weight: 600;
   text-transform: capitalize;
-  color: #1edfd2;
+  color: #f89420;
   background: -webkit-gradient(
     linear,
     left top,
@@ -8517,7 +8517,7 @@ select {
 #roadmap_06 .location_04 .location_wrapper .location .location_title h3 {
   font-weight: 500;
   font-size: 16px;
-  color: #1edfd2;
+  color: #f89420;
   margin-bottom: 15px;
   background-image: -webkit-gradient(
     linear,
