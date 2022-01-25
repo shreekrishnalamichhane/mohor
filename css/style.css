@@ -670,6 +670,9 @@ select {
   width: auto;
   margin-left: -4px;
 }
+.fs-contract {
+  font-size: 20px !important;
+}
 
 #benefits {
   background: #081864;
@@ -1004,6 +1007,10 @@ select {
   transition: all 0.3s ease-in-out;
 }
 
+.tokenomics_chart {
+  width: 40vw;
+  height: auto;
+}
 /* roadmap */
 .roadmap {
   padding: 100px 0;
